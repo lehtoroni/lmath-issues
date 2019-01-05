@@ -1,2 +1,2 @@
 # lmath-issues
-A repository for tracking issues in the L'Math software.
+This repository was made to track issues in [L'Math](https://lehtodigital.fi/lmath).
